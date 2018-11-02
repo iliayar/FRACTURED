@@ -1,0 +1,9 @@
+EMPLOYEEDB------------------TEXTFILE
+BARBARACOM------------------TEXTFILE
+JOHNCOM------------------TEXTFILE
+MAXCOM------------------TEXTFILE
+MARIECOM------------------TEXTFILE
+PETERCOM------------------TEXTFILE
+MALCOLMCOM------------------TEXTFILE
+SUSICOM------------------TEXTFILE
+EXAMPLECOM------------------TEXTFILE

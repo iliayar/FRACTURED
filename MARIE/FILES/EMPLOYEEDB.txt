@@ -1,0 +1,13 @@
+
+
+-- NAME -- AGE -- STATUS -- POSITION -- LEVEL -- PSYCH FILE
+-- SUSI A. -- 39 -- ACTIVE -- HR -- 2 -- FALSE
+-- MALCOLM S.-- 20 -- INACTIVE -- INTERNSH.-- 0 -- TRUE
+-- PETER M.-- 29 -- ACTIVE -- PA HR -- 2 -- TRUE
+-- MARIA W.-- 37 -- ACTIVE -- HR -- 2 -- FALSE
+-- MAX M. -- 32 -- ACTIVE -- SCIENCE -- 3 -- TRUE
+-- JOHN L. -- 35 -- ACTIVE -- SCIENCE -- 3 -- TRUE
+-- BARBARA -- 24 -- ACTIVE -- SC.DP.LD.-- 4 -- FALSE
+-- $()!$*% -- 50 -- -- )!($!%% -- 5 -- )!)$!$%
+-- =+=++=! -- 99 -- ACTIVE -- I10AS351 -- 6 -- (!)&^%
+-END OF CONTENT.

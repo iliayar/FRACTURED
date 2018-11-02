@@ -1,0 +1,4 @@
+DAILYREPORT4------------------TEXTFILE
+DAILYREPORT3------------------TEXTFILE
+DAILYREPORT2------------------TEXTFILE
+DAILYREPORT1------------------TEXTFILE
