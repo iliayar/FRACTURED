@@ -6,6 +6,6 @@ MALCOLM                             |94S134F
 PETER                               |WATERBED
 JOHN                                |MACGYVER
 MARIE                               |SLEDGEHAMMER
-BARBARA
+BARBARA                             |MACARTHUR
 MAX                                 |RUNDMC
 AGENTC                              |MORON
