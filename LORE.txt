@@ -4,7 +4,7 @@
 SUSI содержиться в файле USERDB с аккаунта GUEST
 также в FLYER'e написана фамилия SUSAN APPLETREE
 
-M5319 с аккаунта SUSI явно содержит пароль MALCOLM'a 94S34G
+M5319 с аккаунта SUSI явно содержит пароль MALCOLM'a 94S134G
 
 В M5570 говорится о PETER'e и его любви к WATERBED отсюда и пароль
 
@@ -36,5 +36,5 @@ FRIENDS ARE THE ADVENTURES OF LIFE - MACGYVER(JOHN цитата героя MacGy
 MALUS PUMILA - дословно APPLETREE (SUSI)
 RAISING HELL - трек группы RUNDMC(MAX)
 THE BED FILLED WITH WATER(не помню точно) - WATERBED(PETER)
-NINEFOUR19ONETHREEFOUR6 -> 941911346 -> 94S34G (JOHN S,G соответственно 19 и 6 буквы алфавита)
+NINEFOUR19ONETHREEFOUR6 -> 94191346 -> 94S134G (JOHN S,G соответственно 19 и 6 буквы алфавита)
 OPEN UP YOUR FRUIT CAGE - слова из песни SLEDGEHAMMER(MARIE)
